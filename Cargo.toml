@@ -1,0 +1,8 @@
+[package]
+name = "vulkan-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ash = "0.38.0"
+rfd = "0.15.0"
